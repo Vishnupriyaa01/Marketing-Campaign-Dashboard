@@ -1,26 +1,19 @@
-                                                     MARKETING CAMPAIGN ANALYSIS DASHBOARD
+**                                                     MARKETING CAMPAIGN ANALYSIS DASHBOARD
 
 INTRODUCTION
 
-This project focuses on analysing digital marketing campaign performance across Facebook and Instagram using user interaction and ad engagement data. The dataset contains information about
-campaigns, ads, users, and ad events such as impressions, clicks, and purchases. The objective of this dashboard is to understand how campaigns perform across platforms, audiences, time, and 
-geography, and to identify patterns that can help improve targeting, engagement, and return on marketing spend.
+This project focuses on analysing digital marketing campaign performance across Facebook and Instagram using user interaction and ad engagement data. The dataset contains information about campaigns, ads, users, and ad events such as impressions, clicks, and purchases. The objective of this dashboard is to understand how campaigns perform across platforms, audiences, time, and geography, and to identify patterns that can help improve targeting, engagement, and return on marketing spend.
 
 OBJECTIVE
 
 1. KPI Summary Cards
-The KPI cards give a quick overview of the entire marketing dataset. They show the scale of campaigns through total ads, total campaigns, total impressions, clicks, users, budget, and events.
-These metrics help decision-makers instantly understand campaign volume and performance without going into detailed visuals. They act as high-level indicators that summarize overall
-marketing effectiveness.
+The KPI cards give a quick overview of the entire marketing dataset. They show the scale of campaigns through total ads, total campaigns, total impressions, clicks, users, budget, and events.These metrics help decision-makers instantly understand campaign volume and performance without going into detailed visuals. They act as high-level indicators that summarize overallmarketing effectiveness.
 
 2. Top 5 Campaigns by Impressions
-This chart identifies the campaigns that achieved the highest reach, each generating around 13K–14K impressions. It shows that only a few campaigns are driving most of the visibility. These
-campaigns likely had better targeting, attractive creatives, or were placed on stronger-performing platforms. Marketers can study these top performers to replicate their strategy in future
-campaigns.
+This chart identifies the campaigns that achieved the highest reach, each generating around 13K–14K impressions. It shows that only a few campaigns are driving most of the visibility. These campaigns likely had better targeting, attractive creatives, or were placed on stronger-performing platforms. Marketers can study these top performers to replicate their strategy in futurecampaigns.
 
 3. Ad Platform-wise Comparison by Ad Type
-This chart compares how Carousel, Image, Stories, and Video ads perform on Facebook and Instagram. Facebook shows stronger performance in Image and Carousel formats because users engage more
-with detailed scrolling content. Instagram performs best with Stories due to its visual and fast mobile usage. The graph clearly highlights that ad design should be customized for each
+This chart compares how Carousel, Image, Stories, and Video ads perform on Facebook and Instagram. Facebook shows stronger performance in Image and Carousel formats because users engage more with detailed scrolling content. Instagram performs best with Stories due to its visual and fast mobile usage. The graph clearly highlights that ad design should be customized for each
 platform to maximize effectiveness.
 
 4. Total Engagement by Campaign & Month
